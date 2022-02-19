@@ -1,0 +1,5 @@
++) Tắt windows defender trước khi mở chương trình 
++) Tắt trình diệt virut để mở chương trình 
++) Giai nén bằng winrar 
++) Made by gr2
+// Thank
